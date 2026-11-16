@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-concurrent-login"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS concurrent-login component - user_management"
+
+[lib]
+name = "concurrent_login"
+path = "src/lib.rs"
