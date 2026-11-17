@@ -3,7 +3,7 @@ name = "SigmaOS-concurrent-login"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "concurrent-login component"
+description = "concurrent login"
 upstream = []
 
 [contract]
